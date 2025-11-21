@@ -1,0 +1,5 @@
+{
+  "name": "AI Background Swap",
+  "description": "Instantly change the background color of your images using Gemini AI. Supports solid colors and transparency requests.",
+  "requestFramePermissions": []
+}
